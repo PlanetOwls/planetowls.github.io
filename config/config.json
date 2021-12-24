@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x0A9c001d30196D284b8f17Ef2f5ddd460e2aa7f3",
+  "SCAN_LINK": "https://polygonscan.com/address/0x0a9c001d30196d284b8f17ef2f5ddd460e2aa7f3",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Planet Owls",
+  "SYMBOL": "Owl",
+  "MAX_SUPPLY": 3333,
+  "WEI_COST": 5000000000000000000,
+  "DISPLAY_COST": 5,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/planetowls",
+  "SHOW_BACKGROUND": true
+}
